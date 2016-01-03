@@ -1,0 +1,1 @@
+An Open Source bathroom scale that logs user weight and time to an SDCard
